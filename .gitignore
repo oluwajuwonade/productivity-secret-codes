@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# System state (local persistence, not repo data)
+*.db
+!.gitkeep
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Secrets (never commit tokens or keys)
+*.env
+.env.*
