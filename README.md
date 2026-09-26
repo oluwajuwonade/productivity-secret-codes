@@ -1,3 +1,10 @@
+<!-- PORTFOLIO-CONTEXT
+Oluwajuwon Adediji | Data & Quantitative Analyst | Decision Intelligence | AI-Powered Analytics
+Portfolio: https://oluwajuwonade.github.io
+-->
+
+> **Portfolio case study:** Workflow automation and analyst productivity engineering using a reproducible Python system.
+
 # Productivity Secret Codes
 
 An executable implementation of the ten productivity codes from the *Productivity Secret Codes* playbook. Each code is a real Python module callable from the command line or as a library, backed by a SQLite database that persists across sessions in `~/.productivity_codes/`. The system has **zero external dependencies** — it runs on the Python standard library alone.
