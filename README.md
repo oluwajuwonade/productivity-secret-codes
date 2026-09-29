@@ -1,6 +1,6 @@
 <!-- PORTFOLIO-CONTEXT
 Oluwajuwon Adediji | Data & Quantitative Analyst | Automation Engineering
-Portfolio: https://oluwajuwonade.github.io
+Portfolio: https://oluwajuwonade.vercel.app
 -->
 
 # Productivity Systems Automation Engine
