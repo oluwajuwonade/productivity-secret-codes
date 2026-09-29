@@ -39,6 +39,18 @@ The system persists state in `~/.productivity_codes/productivity.db` and exposes
 9. Energy ledger
 10. Weekly review
 
+## Decision framing
+
+> **Decision question:** How can repeatable personal-workflow rules become executable, persistent systems without relying on ad hoc manual tracking?
+
+The project demonstrates workflow-system design; it is not a claim that these rules improve productivity for every user.
+
+## Important limitations
+
+- The system is a local, single-user implementation built around SQLite persistence.
+- It does not provide a controlled experiment or observed productivity benchmark.
+- The included workflow rules are design patterns, not universally optimal operating procedures.
+
 ## Quick start
 
 ```bash
